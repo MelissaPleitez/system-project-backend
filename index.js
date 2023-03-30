@@ -4,7 +4,7 @@ import db from './config/db.js'
 import userRoutes from './routes/userRoutes.js'
 import applicationRoutes from './routes/applicationRoutes.js'
 import cors from 'cors'
-import {MONGO_PORT} from '../variables.js'
+import {MONGO_PORT} from './variables.js'
 
 
 
